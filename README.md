@@ -1,2 +1,0 @@
-# libNotificaciones
-Librería de notificaciones
